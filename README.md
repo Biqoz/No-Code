@@ -23,4 +23,5 @@ Adalo : Pour créer des applications mobiles interactives.
 Je suis disponible pour discuter de vos besoins spécifiques et vous aider à mettre en place une solution No-Code adaptée à vos objectifs.
 
 🔗 Contactez-moi
-Si vous souhaitez en savoir plus sur mon travail ou collaborer sur un projet, n’hésitez pas à me contacter via par email à nacim@biqoz.com
+Si vous souhaitez en savoir plus sur mon travail ou collaborer sur un projet, 
+n’hésitez pas à me contacter via par email à nacim@biqoz.com
